@@ -1,4 +1,4 @@
 dailypro
 ========
 
-Packaged templates of reddits /r/dailyprogrammer exercises for Node.js.
+Packaged templates of reddit's /r/dailyprogrammer exercises for Node.js.
